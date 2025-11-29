@@ -46,7 +46,7 @@ git clone https://github.com/0xRoony/spartax.git
 ```
 ### 2 — Enter the project directory
 ```bash
-cd SpartaX
+cd spartax
 ```
 
 ### 3 — Install dependencies
@@ -58,4 +58,5 @@ pip install -r requirements.txt
 python3 spartax.py
 
 ```
+
 
