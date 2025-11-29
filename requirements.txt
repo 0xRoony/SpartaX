@@ -1,0 +1,10 @@
+colorama
+requests
+pillow
+pynput
+pyaudio
+pywin32
+mss
+pyperclip
+psutil
+pyinstaller
