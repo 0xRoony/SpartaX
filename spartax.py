@@ -452,7 +452,7 @@ _run_encrypted(_encrypted_blob)
                       
 
                         cmd_build = [
-                            "python3",
+                            "python",
                             "-m", "PyInstaller",
                             "--noconfirm",
                             "--onefile",
@@ -779,4 +779,5 @@ This tool is currently in beta; some features may be unstable/*
 """
 
 print(banner)
+
 background()
