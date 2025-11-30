@@ -1,4 +1,4 @@
-# ⚡ Spartax
+# SpartaX
 A lightweight open-source RAT designed for **educational**,  
 **research**, and **authorized local administration** purposes.
 
@@ -58,3 +58,4 @@ pip install -r requirements.txt
 ```bash
 python3 spartax.py
 ```
+
