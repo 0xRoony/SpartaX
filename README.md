@@ -6,6 +6,7 @@ Spartax allows you to explore how remote command execution, system queries,
 and device automation work internally — all in a safe, transparent,  
 and fully open-source environment.
 
+**Note:** Spartax currently works Windows-to-Windows only. Linux and macOS are not supported
 ---
 
 ## ⚠️ Legal Notice
@@ -42,7 +43,7 @@ Spartax includes a collection of **safe administrative commands**, allowing you 
 
 ### 1 — Clone the repository
 ```bash
-git clone https://github.com/0xRoony/spartax.git
+git clone https://github.com/yourusername/spartax.git
 ```
 ### 2 — Enter the project directory
 ```bash
@@ -56,7 +57,4 @@ pip install -r requirements.txt
 ### 4 — Run
 ```bash
 python3 spartax.py
-
 ```
-
-
