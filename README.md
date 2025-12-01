@@ -43,7 +43,7 @@ Spartax includes a collection of **safe administrative commands**, allowing you 
 
 ### 1 — Clone the repository
 ```bash
-git clone https://github.com/yourusername/spartax.git
+git clone https://github.com/0xRoony/spartax.git
 ```
 ### 2 — Enter the project directory
 ```bash
@@ -58,5 +58,6 @@ pip install -r requirements.txt
 ```bash
 python3 spartax.py
 ```
+
 
 
